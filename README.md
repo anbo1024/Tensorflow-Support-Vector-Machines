@@ -1,3 +1,2 @@
 # Tensorflow-Support-Vector-Machines
-未完待续，敬请期待！
-预计下个月！
+Tensorflow框架下实现支持向量机
