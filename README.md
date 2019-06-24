@@ -1,5 +1,5 @@
 # Tensorflow-Support-Vector-Machines
-Tensorflow框架下实现各种支持向量机 
+Tensorflow 框架下实现各种支持向量机 
 ****
 ### 1、Implement support vector machine     
 ![linear svm ](https://github.com/anbo1024/Tensorflow-Support-Vector-Machines/blob/master/img/6.png)
